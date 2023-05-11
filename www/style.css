@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+	background-color: #fcf7f7;
+}
+
+header {
+	color: #ffffff;
+	padding: 20px;
+}
+h1{
+	color: #000;
+}
+p{
+	color: #000;
+}
+.informasi h3{
+    text-align: center;
+    margin-top: 10px;
+    color: #394867;
+}
+.informasi p{
+    display: block;
+    margin-top: 14px;
+    margin-left: 10px;
+    color: #394867;
+}
+.informasi{
+    border: 1px solid black;
+    width: 50%;
+	text-align: center;
+	margin-left: 380px;
+}
