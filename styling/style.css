@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+	background-color: #fcf7f7;
+}
+
+header {
+	color: #ffffff;
+	padding: 20px;
+}
+h1{
+	color: #000;
+}
+p{
+	color: #000;
+}
